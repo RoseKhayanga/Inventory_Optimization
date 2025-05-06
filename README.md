@@ -1,2 +1,2 @@
 # Inventory_Optimization
-This is  an end to end solution to track reorder levels, stock availability and supplier delivery times
+This is  an end to end solution to track reorder levels, stock availability,predict and estimate optimal restock dates and analyze supplier delivery times.
